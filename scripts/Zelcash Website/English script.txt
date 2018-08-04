@@ -1,0 +1,80 @@
+1	***Top Section***
+1.1	Home - About - Roadmap - Team - Exchanges - Downloads - Pools - Tools & Resources - Algoswap
+1.2	We are proud to present ZelTreZ. Easy to use, both Light and Full node wallet
+
+2	***About***
+2.1	What is ZelCash?
+2.2	Zelcash is a cryptocurrency that holds a central role in the Zel Ecosystem. It gives the incentive for ZelNode ownership to enable the creation of ZelDex and the ZelDev Platform, enabling us to create a truly decentralized development platform.
+2.3	Zelcash is minable making distribution fair. ZelNodes are soon to be added, and will allow holders of Zelcash to operate a ZelNode, receiving a portion of blockreward for operating it. Zelcash is the means of transacting in the Zel Ecosystem. It will always be a key part of the Zel Ecosystem.
+2.4	Read more
+
+3	***Features***
+3.1 	Our Features. ZelCash offers a unique feature set focused on ease-of-use, power, and dependability
+3.2	Mobile Apps - Take Zel with you anywhere and pay anywhere. ZelTreZ mobile will place the power of the Zel platform right in your pocket.
+3.3	Safe & Secure - Zeltrez gives you the power to choose if you want speed or advanced features. All wallets are available as light nodes, with the option to download the Full Node should you require the advanced features like shielded addresses, recovering existing wallets, and much more.
+3.4	Encrypted Multi-asset Wallet - Enjoy quick, easy access to all your favorite coins and tokens with ZelTreZ. ZelTreZ creates a “One Stop Shop” for Crypto assets and provides the gateway to DEX and dAPP development.
+3.5	Community Involvement - Zel is a community driven and supported POW based cryptocurrency, with this; development of a robust and functioning infrastructure is obtained. Mine Zelcash today, support a ZelNode or POW to secure the network.
+3.6	Decentralized Exchange - Zel’s ongoing development plan is to have the first scalable and reliable DEX on the ZelDev platform. ZelTreZ will be the portal to this powerful new platform.
+3.7	ZelDev - Offering developers an easy SDK for utilizing the ZelDev platform for blockchain, DAPP and Smart contract development.
+
+4	***Roadmap***
+4.1	May - ZelTreZ Release
+4.2	June - Marketing Campaign - The Zelcash marketing plan describes the short/medium-term items planned to increase Zel's position in the crypto world. From building an effective marketing team to increasing the usability and usage of ZelTreZ to security auditing. Read this document to understand how we are striving to make Zel a household name.
+4.3	July - Website 2.0, Bigger Exchanges
+4.4	October - ZelNodes - ZelNodes are key to creating most of what we envision. They will allow us to build a network of decentralized nodes, allowing ZelChains, Smart Contracts, dAPPs, tokenization of assets and much more. All through our ZelDev platform making development seemless, allowing developers to utilize Javascript and our SDK and BDK.
+
+5	***Meet Our Team***
+5.1	Miles Manley - Founder & Developer - At age 15, Miles founded Zelcash with the ambition to create a scaleable, decentralized blockchain development platform. To enable fellow developers to create blockchain-based applications and dAPPs with ease. Miles, now 16, works full time on Zelcash and looks forward to the future that lays ahead.
+5.2	Lumi Ibishi - Developer & Designer - With over 15 years experience working on graphic design, Lumi leads the design team at Zel Technologies. He also brings vast amount of knowledge and expertise in UI and UX development. In May 2018, Lumi, Miles, Patrick and Tadeáš formed Zel Technologies LLC. our business arm that brings everything Zel together.
+5.3	Tadeas Kmenta - Developer - Tadeas hailing from the Czech Republic, Tadeáš is our lead developer and heads our development team. Tadeáš is an experienced Javascript developer and looks forward to the enablement of people through blockchain.
+5.4	Whole Team
+
+6	***Exchanges***
+6.1	Current listing of exchanges for ZelCash
+
+7	***Downloads***
+7.1	Zel offers multiple wallets for many of today's platforms
+7.2	ZelTreZ multi-coin wallet
+7.3	ZelCash Copay Wallet
+7.4	ZelCash Swing Wallet
+
+8	***Pools***
+8.1	A list of mining pools that support ZelCash
+8.2	Partner
+
+9	***Tools & Resources***
+9.1	Links that power the infrastructure of ZelCash
+9.2	Explorer - Main - Backup - Backup 2
+9.3	Useful Links - Info Website - Web wallet
+
+10	***Footer***
+10.1	Site map - Home - About us - Whitepaper - Charity - Press - Contact Us
+10.2	Quick Links
+10.3	Follow us
+
+11	***Footer 2***
+11.1	Copyright - All rights reserved - Terms and conditions - Privacy policy
+
+-------------------
+Algo swap page
+-------------------
+
+1	***Modified Equihash***
+1.1	Zelcash will swap the POW hashing algorithm from ZCash (200,9) Equihash to ZHash (144,5) Equihash to continue our stance of ASIC-resistance.
+1.2	Equihash 144,5 is a "stop-gap" for Zelcash. This algo swap will give us time to continue development for ASIC-resistance by exploring more long-term options, such as ProgPOW.
+1.3	Zelcash Personalization String: "ZelProof"
+
+2	***Difficulty Algorithm***
+2.1	The difficulty algorithm will swap from DigiShield v3 to LWMA with the Equihash algo swap. The algorithm was developed for micro/small-cap coins to better adjust difficulty for large hash swings.
+2.2	Faster block find retargeting response - Stronger protection against hash and timestamp attacks - Reduces number of potential "stolen" blocks - More info: Zawy Github
+
+3	***Block information***
+3.1	Difficulty Algo swap
+3.2	Both Equihash algos allowed
+3.3	Equihas 144,5 Algo swap
+3.4	Block - Blocks
+
+4	***Mining Information***
+4.1	Modified Equihash is similar to the original algorithm in terms of GPU settings. Miners must update mining software and mining scripts. You will see a significantly lower sol rate, this is normal.
+
+5	***Expected Hashrates
