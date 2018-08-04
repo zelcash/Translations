@@ -1,0 +1,90 @@
+***Page 2***
+Title: ZelTreZ Features
+
+-Lightweight and full node modes
+-Multiple accounts allowed on a single device
+-Same account can login on any device with ZelTreZ app
+-Background can be changed to any picture or gif file
+-Coins/tokens can be shown or hidden within the portfolio
+-Portfolio displayed worth can be changed to 150+ different currencies
+-Quick-exchange services are integrated for easy trading
+-The login credentials are the backup key, no files to backup for lightweight wallets
+-No login or private information is stored remotely for ultimate end-user security
+-ZelTreZ automatically checks for updates and shows detailed release notes
+
+***Page 3***
+Title: Download & Install ZelTreZ
+
+-Download the version for your Operating System
+-Launch the downloaded file and follow install instructions
+-Open ZelTreZ
+
+***Page 4***
+Title: Create an account & log in
+-If this is the first time using ZelTreZ, select “Create Account”
+-Create a long and strong username and password nobody else will know
+-Log into your account using your username and password
+-Backup your login credentials on paper and keep private as you would other login information
+
+***Page 5***
+Title: ZelTreZ Layout
+
+-Settings - Background & Avatar selection, priv keys, etc.
+-Portfolio - summary of wallets
+-Exchange - Shapeshift access, future location of ZelDex
+-Apps - Future interface with ZelDapps and Marketplace
+-Help - Access ZelTreZ FAQ
+-Portfolio Color Wheel
+-Coins & Tokens Bar
+-Add coin - Select which coins to display (remove coins in Settings)
+-Log Out - Return to Login
+-Quit - Close ZelTreZ
+
+***Page 6***
+Title: Wallets Layout
+
+-Send - Opens up window to send coin to an address
+-Receive - Displays your current wallet address
+-Contacts - You can save frequently-used addresses
+-Full Node - Activates full node capability
+-Current Wallet Worth
+-Transaction History - Displays previous transactions. Click a transaction to view on block explorer
+
+***Page 7***
+Title: Full Node Warnings
+
+-Full node wallet requires a complete copy of the coin blockchain and proving keys (if required)
+-Blockchains can be large (BTC is >200GB) and can fill up your HDD quickly
+-Downloading blockchains and proving keys can take a long time (hours+)
+-ZelTreZ encrypts the wallet files for full node. The swing wallet will no longer function properly after launching Full Node in ZelTreZ (a backup is automatically created to revert back to swing wallet if necessary)
+-Lightweight (default) mode is recommended for 99% of users. Those that require full node capability should know how to use full node wallets already
+
+***Page 8***
+Title: ShapeShift Layout
+
+-Sell - Select the coin to exchange
+-Buy - Select the coin to receive
+-Enter the amounts to exchange
+-Agree to the ShapeShift ToS and Zel disclaimer
+-Select “Begin Exchange”
+-Transaction will show up in History at the bottom
+-Note: Coins must be activated in ZelTreZ and available on ShapeShift network to exchange
+
+***Page 9***
+Title: Wallets Notes
+
+-ZelTreZ defaults to lightweight mode
+-Full node is only needed for shielding (most users should use lightweight mode)
+-Displayed currency can be changed in Settings; 150+ different world currencies available
+-Contacts can be added and deleted as needed
+-Auto calculated and user-selectable Tx fees (Normal is fine for most cases)
+-Maximum button allows sending of all funds in an address
+
+***Page 10***
+Title: Settings Notes
+
+-Click top-middle white circle to change avatar photo
+-Change portfolio display currency
+-Select “Choose File” to change ZelTreZ background (photo or gif)
+-Private key and other address info can be displayed
+-Hide coins that are not in use
