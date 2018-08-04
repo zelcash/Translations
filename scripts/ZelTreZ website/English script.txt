@@ -1,0 +1,59 @@
+1	***Top Section***
+1.1	About - Downloads - Roadmap - Support
+1.2	Multi-asset encrypted wallet
+1.3	Release Notes - For - bit - Download - Other platforms
+
+2	***About***
+2.1	Multi-asset Encrypted wallet - ZelTreZ keeps your assets safe. With support for 15 coins: Zelcash (ZEL), Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH), Zcash (ZEC), BitcoinZ (BTCZ), Hush (HUSH), Ravencoin (RVN), Binance (BNB), BitCore (BTX), 0x (ZRC), OmiseGO (OMG), Zilliqa (ZIL), Basic Attention Token (BAT), Golem (GNT).
+2.2	Support for Multiple Accounts - Our login system allows you have multiple encrypted wallets and accounts on the same computer.
+2.3	Light node or full node. The choice is yours. - Zeltrez gives you the power to choose if you want speed or advanced features. All wallets are available as light nodes, with the option to download the Full Node should you required the advanced features like shielded addresses, recovering existing wallets, and much more.
+2.4	Watch the preview
+
+3	***Contact***
+3.1	Need help? We will get back to you ASAP - Contact Us
+3.2	Let's talk - Join our Discord server
+
+4	***Footer***
+4.1	All rights reserved
+
+5	***Roadmap***
+5.1	May - Release
+5.2	August - Mobile - Web
+5.3	Follow Us for Updates
+
+6	***Support***
+6.1	Frequenty Asked Questions
+6.2	Which coins are supported in Zeltrez? - As of 1.0.0, we support Zelcash (ZEL), Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH), Zcash (ZEC), BitcoinZ (BTCZ), Hush (HUSH), and Ravencoin (RVN).
+6.3	What is the Portfolio tab? - Portfolio hosts all the coins/tokens suported by Zeltrez. To us a coin simply, click on its icon to bring you to the coins action page.
+6.4	I see contacts after I click a coin, what are these? - These are your saved addresses. For example an exchange address. For coins with zk-SNARKS, you can have both Z-Addr (Shielded) or T-Addr (Transparent) saved in your contacts.
+6.5	What is a Shielded Address? - A Shielded Address provides anonymous/private transactions using zk-SNARKS. All transactions send/received via that address will not be visible on an Explorer.
+6.6	What are Full Nodes? - When you opt to run a full node wallet, Zeltrez will download a full copy of the selected coins (blockchain and all). This is only recommened for those that want to use private, Z-addresses, as using full node will use up extra system resources (CPU and Storage.)
+6.7	Do I need to run Full Nodes on each and every coin? - Only if you need to activate advanced feature such as importing your existing Private Key or to re-scan blockchains to import your previous (existing) wallet from another wallet apps.
+6.8	Why does downloading 'proving keys' take so long? - Dependent on your internet connection, it could take some time for slow internet access.
+6.9	I have the following error: sprout-proofing key failed to download, how do I fix it? - It will auto-download when you close and re-open Zeltrez.
+6.10	What are Peers, Height and Headers? - Peers displays how many peer-to-peer connections you have made with other fullnodes for the coin you have fullnode activated on. Height is the blocks within the blockchain you are syncing. When it 100% synced, you should have see the most recent block height numbers as per your coins explorer. Headers is the recent block height; when the wallet is 100% sync, you should see Height number equal to the Header numbers.
+6.11	How many number of Peers are considered good/okay? - In general, you would see at minimum 2 up to 7 peers. Anything more than 5 peers is considered okay.
+6.12	When activating fullnode, the wallet synced percentage (%) is climbing quite slow? - The blockchains downloaded from the coins P2P network of fullnode wallets. More fullnodes = more P2P ports to the internet = better download speed. In Zelcash's case, when ZelNodes are released in Q3 - Q4 2018, we can expect faster sync speeds.
+6.13	How can I change the base currency from USD to BTC or other currency? - Click your profile and then select your base currency, from the drop down menu.
+6.14	How can I add a picture to my profile? - Click your profile to add or change your profile picture.
+6.15	How can I see my ZelTreZ private key, encryption key, or WIF keys for activated coins? - Click your profile to view your private keys.
+6.16	How can I create multiple accounts? - You can create new account on the launch page just before you login.
+6.17	How to import my previous wallets? - You need to activate Full Node for the coin you wish to import, and then select Tools > Import My Private Key and/or Re-Scan Blockchains.
+6.18	What does rescan blockchain mean? - It allows Zeltrez to sweep the blockchains to scan for available funds under all addresses within your private key.
+6.19	What is private key? - A key to access your funds. If you lose it, you practically lost access to your fund. Treat your private key like the keys to your house, look after it and make sure you have a spare copy, stored somewhere safe.
+6.20	What is encrypted key? - TLDR: It's the key Zeltrez uses to encrypt your wallets. When you create an account using your nickname and password, Zeltrez takes this password and create a salted hash from it. Zeltrez then adds your nickname to that and creates another salted hash from that value. This value (SHA256 hash) is the encryption key. The encryption key is used to encrypt both contacts.json and wallet.dat files with AES-256-CTR algorithm. When a user selects a coin in fullnode for the first time, Zeltrez accesses the coins default path and reads its wallet.dat file. If the wallet.dat files exist and has not been used Zeltrez creates a back up called (wallet.datBACKUPNICKNAME) file and uses it to accesses the addresses inside of the wallet.dat. When you close Zeltrez Fullnode it shuts down the coins daemon, and other fullnode processes. Zeltrez then takes this wallet.dat and encrypt it with the encryption key and then gives the output of wallet.datNICKNAME. This allows multiple users to use the same PC.
+6.21	How can I find the private key of either a Transparent or Shielded Address? - Go to Contacts and find Private Key link for each address.
+6.22	How many MB of disk space is required to run ZelTreZ? - Initial setup requires less than 100 MB.
+6.23	How many GB of disk space is required to run ZelTreZ with all coins enabled? - Roughly 60 MB provided no fullnodes activated. It varies per coin, but it recommended not to download fullnode for coins other then those you require Z-addresses for. Zelcash fullnode requires about 700 MB at the moment. Zcash fullnode requires around 2GB at the moment. Bitcoin fullnodes could expected up to 300 GB. So it varies from coin to coin.
+6.24	How to secure (encrypt/backup) my wallets? - The wallet is encrypted and backed up by default. The only state when the wallet is unencrypted is when you are logged on to the wallet. So it's adviseable to quit/exit Zeltrez when you are not using it to allow Zeltrez to encrypt and back-itself-up.
+6.25	How can I use the exchange feature? - Currently ZelDex is not available on Zeltrez. ZelDex is under development and will be available sometime in Q4 of 2018 - Q1 of 2019. It will be an easy and simple decentralized exchange, which will be available on Zeltrez and a web interface.
+6.26	I forgot my username/password. How can I recover them? - Zeltrez does not keep a copy of unencrypted password locally nor remotely. Due to this feature, there's no way to retrieve the password nor to change it. When you lose (or forget) either username or password, you will lose access to your wallet PERMANENTLY. Thus it is IMPORTANT and IMPERATIVE that you keep a copy of your information somewhere safe.
+6.27	What is the Apps tab? - This section is slated to be a decentralized application (dApps) store and sandbox in a future ZelTreZ release. Keep an eye on this section.
+6.28	I still can't find an answer I'm looking for, help! - We are happy to help. You can reach us on Discord, Twitter, Reddit, or email.
+
+7	***Sidebar***
+7.1	Contact Us
+7.2	Follow Us - Contact Us
+7.3	Developer support - How do I add my coin to ZelTreZ? - If you're interested in adding your coin to ZelTreZ, please apply here
+7.4	Installation Guides - How to install ZelTreZ on MacOS? - Please follow this guide.
+7.5	How to add security exception to Avast? - Please follow this guide.
