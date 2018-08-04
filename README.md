@@ -62,6 +62,7 @@ In no particular order:
 -Dutch  
 -Greek  
 -Ukrainian  
+-French  
 
 + more as requested
 
