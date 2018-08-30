@@ -33,8 +33,8 @@ So please follow the formatting of the original file with the translated text an
 - ZelCash website & algo swap page	|	125 Zel
 - ZelTreZ website	|	150 Zel
 - ZelTreZ "How-To" guide	|	100 Zel
-- [Zel Marketing Plan](https://zel.cash/pdf/Marketing_overview_rev1.pdf)	|	200 Zel
-- [Zel Whitepaper v2](https://zel.cash/pdf/zelcash_whitepaper_v2.pdf)	|	500 Zel
+- [Zel Marketing Plan](https://zel.cash/pdf/Marketing_overview_rev1_English.pdf)	|	200 Zel
+- [Zel Whitepaper v2](https://zel.cash/pdf/zelcash_whitepaper_v2_English.pdf)	|	500 Zel
 
 Note: The Marketing Plan and Whitepaper can be viewed from the links above (I did not copy/paste them into Github due to length).
 
